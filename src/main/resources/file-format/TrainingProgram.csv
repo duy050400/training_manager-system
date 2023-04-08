@@ -1,0 +1,5 @@
+program_id,name,dateCreated,lastDateModified,status,listSyllabusesId
+1001,Training Program A,2022-02-02,2022-02-02,false,7
+1002,Training Program B,2022-02-02,2022-02-02,false,7
+1003,Training Program C,2022-02-02,2022-02-02,false,7
+1015,Training Program D,2022-02-02,2022-02-02,true,7/10
